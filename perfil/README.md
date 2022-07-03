@@ -5,11 +5,12 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Place-UP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlaceUp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="200" src="https://user-images.githubusercontent.com/101017287/177030829-a765dcc3-b66d-4a14-87f0-6a32f1415d10.svg">
 </div>
 
-## 🚀 O que é a PLACEUP?
+  
+
+## O que é a PLACEUP? 🤔
 A Place Up nasceu após uma analise de necessidade do mercado, onde foi averiguado que os pequenos comercios enfrentam dificuldades em: <br>
 - Precificação dos produtos <br>
 - Divulgação online <br>
@@ -34,25 +35,18 @@ Com isso surge a **PLACE UP** uma plataforma online que auxilia o comerciamente 
      <h3> Valores 👔</h3>
      <p>Responsibilidade, Comprometimento e Inovação.</p>
 
-## 
 
+    
+# Quais Tecnologias a PlaceUp Utiliza? 👨‍💻
+    
 <div align="center" style="display: inline_block"><br>
-<h1> 👨‍💻Quais Tecnologias a PlaceUp Utiliza? <br>
-<p> </p>
 <br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlaceUp&layout=compact&langs_count=7&theme=dracula"/>   <br> 
   <img align="center"  height="55" width="70" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-
-<div>
-
-<img align="right" height="200" src="https://user-images.githubusercontent.com/101017287/177030829-a765dcc3-b66d-4a14-87f0-6a32f1415d10.svg">
-
-</div>   
+</div> 
 
 # Quem são os criadores da PlaceUp? 🧠
 
@@ -62,12 +56,12 @@ Com isso surge a **PLACE UP** uma plataforma online que auxilia o comerciamente 
   <td align="center"><a href="https://github.com/oGabbezito"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177031991-b563a7dc-0d47-4d69-abba-ed86de388c77.png" width="100px;" alt=""/><br /><sub><b>Gabbe Lins</b></sub></a><br />Front End Developer </a></td>
   <td align="center"><a href="https://github.com/ihyperbr"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032286-4f3ffd00-3e32-46b6-bc25-f68978ca2b09.png" width="100px;" alt=""/><br /><sub><b>Bruno Costa</b></sub></a><br />Front End Developer </a></td>
   <td align="center"><a href="https://github.com/XfireX157"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032515-782dd90b-f551-4764-b3af-e2f1f5061b73.png" width="100px;" alt=""/><br /><sub><b>Gustavo P. Martins</b></sub></a><br />Front End Developer </a></td>
-  <td align="center"><a href="https://github.com/Tigas29"><img style="border-radius:50%;" src="https://user-images.githubusercontent.com/101017287/177032563-7d1e772b-c04b-47f6-a393-4dc77df93761.png" width="100px;" alt=""/><br /><sub><b>Gustavo P. Martins</b></sub></a><br />Front End Developer </a></td>
+  <td align="center"><a href="https://github.com/Tigas29"><img style="border-radius:50%;" src="https://user-images.githubusercontent.com/101017287/177032563-7d1e772b-c04b-47f6-a393-4dc77df93761.png" width="100px;" alt=""/><br /><sub><b>Tiago Santos</b></sub></a><br />Front End Developer </a></td>
   
   
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/kaykyFreitas"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032719-649d76c6-3afd-4f12-a1c1-cd896cf8fc3c.png" width="100px;" alt=""/><br /><sub><b>Kayke Freitas</b></sub></a><br />Back End Developer </a></td>
+    <td align="center"><a href="https://github.com/kaykyFreitas"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032719-649d76c6-3afd-4f12-a1c1-cd896cf8fc3c.png" width="100px;" alt=""/><br /><sub><b>Kayky Freitas</b></sub></a><br />Back End Developer </a></td>
     <td align="center"><a href="https://github.com/TorHugo"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032838-3427b56a-26d9-4586-8ced-d3887c7801da.png" width="100px;" alt=""/><br /><sub><b>Victor Hugo Arruda</b></sub></a><br />Back End Developer </a></td>
     <td align="center"><a href="https://github.com/Larissa-Sousa"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032900-0d8e9a5c-5b6f-4b68-ab21-a96ec08e29a8.png" width="100px;" alt=""/><br /><sub><b>Larissa Sousa</b></sub></a><br />Back End Developer </a></td>
     <td align="center"><a href="https://github.com/Igor-santos1"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101017287/177032945-4eb482db-f5df-4de1-91c3-3237fdcc2ab4.png" width="100px;" alt=""/><br /><sub><b>Igor Santos</b></sub></a><br />Back End Developer </a></td>
